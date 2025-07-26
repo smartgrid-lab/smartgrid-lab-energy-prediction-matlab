@@ -1,8 +1,7 @@
 ## Author
 👩‍💻 Alya Almanqour  
 AI & Energy Researcher  
-📧 salem11alya@gmail.com
-مشروع تنبؤ استهلاك الطاقة باستخدام MATLAB
+
 # 🔋 Energy Consumption Prediction
 
 This MATLAB-based project predicts daily energy consumption based on temperature and humidity data.
