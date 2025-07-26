@@ -1,4 +1,8 @@
-# smartgrid-lab-energy-prediction-matlab
+👩‍💻 Author
+Alya Almanqour
+AI & Energy Researcher
+📧 salem11alya@gmail.com
+
 مشروع تنبؤ استهلاك الطاقة باستخدام MATLAB
 # 🔋 Energy Consumption Prediction
 
